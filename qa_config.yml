@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+database:
+  dbname: "local"
+  dbuser: "dbuser"
+  dbpassword: "dbpassword"
+  dbhost: "localhost"
+  dbport: "27017"
+
+# EXAMPLE_VAR: "variable from config.yml"
+example_var: "variable from config.yml"
+EXAMPLE_PATH: "path from config.yml"
